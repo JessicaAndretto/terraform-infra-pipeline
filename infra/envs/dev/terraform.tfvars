@@ -1,1 +1,1 @@
-bucket_name = "cicd-test-dev-pipeline"
+bucket_name = "cicd-test-dev-pipeline-apply"
