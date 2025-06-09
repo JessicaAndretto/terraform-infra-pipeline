@@ -1,0 +1,1 @@
+bucket_name = "cicd-test-dev-pipeline"
